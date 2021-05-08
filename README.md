@@ -11,4 +11,4 @@
 - I've uploaded this game to my Itch.io account where you can play it here: https://kpaws-games.itch.io/block-destroyer
 
 ---
-![Screenshot 2021-05-08 151205](https://user-images.githubusercontent.com/58745400/117553606-cf121980-b00f-11eb-992f-c5b2646487e4.png)
+![image](https://user-images.githubusercontent.com/58745400/117553694-39c35500-b010-11eb-8443-67c0f4a835f5.png)
