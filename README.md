@@ -1,5 +1,5 @@
 # BlockDestroyer
-## About ####
+## About ##
 - A breakout-like game I created in Unity.  
 - The goal of the game is to survive and break blocks by bouncing the ball off the paddle.
 
